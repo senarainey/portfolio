@@ -30,10 +30,11 @@ h1{
 	text-align: center;
 	text-transform: uppercase;
 }
-
-h2, p{
-	size: auto;
-	}
+h2.blocktext{
+		    margin-left: 25%;
+    		margin-right: 25%;
+    		width: 8em;
+}
 .active{
 		background-color: #666666;
 		color: #ffffff;
