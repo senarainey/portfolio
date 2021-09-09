@@ -6,7 +6,7 @@
 	text-align: center;
 	color: #ffffff;
 }
-nav a{
+nav a, header{
 	background-color: #ffffff;
 	display: inline-block;
 	text-decoration: none;
@@ -30,11 +30,7 @@ h1{
 	text-align: center;
 	text-transform: uppercase;
 }
-h2.blocktext{
-		    margin-left: 25%;
-    		margin-right: 25%;
-    		width: 8em;
-}
+
 .active{
 		background-color: #666666;
 		color: #ffffff;
