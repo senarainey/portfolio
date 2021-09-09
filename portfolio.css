@@ -30,6 +30,10 @@ h1{
 	text-align: center;
 	text-transform: uppercase;
 }
+
+h2, p{
+	text-size: 100%;
+	}
 .active{
 		background-color: #666666;
 		color: #ffffff;
