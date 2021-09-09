@@ -1,5 +1,5 @@
-@media only screen and (min-width: 390px) {
-		header { 
+@media only screen and (min-width: 390px){
+		header{ 
       background: #106B13; 
       width:100%;
 	padding: 1%;
@@ -36,11 +36,11 @@ h1{
 		opacity: 1;
 }
 
-img.carousel {
+img.carousel{
 	width: 25%;
 }	
 
-img.thumbnail {
+img.thumbnail{
  border: 1px solid #ddd;
   border-radius: 4px;
   padding: 5px;
@@ -97,11 +97,11 @@ opacity: 0.7;
 		opacity: 1;
 }
 
-img.carousel{
+img.carousel {
 	width: 25%;
 }	
 
-img.thumbnail{
+img.thumbnail {
  border: 1px solid #ddd;
   border-radius: 4px;
   padding: 5px;
