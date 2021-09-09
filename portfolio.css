@@ -30,6 +30,10 @@ h1{
 	text-align: center;
 	text-transform: uppercase;
 }
+h3{
+	color: #ffffff;
+	text-align: center;
+}	
 
 .active{
 		background-color: #666666;
