@@ -32,7 +32,7 @@ h1{
 }
 
 h2, p{
-	text-size: 100%;
+	size: auto;
 	}
 .active{
 		background-color: #666666;
