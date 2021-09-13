@@ -64,6 +64,15 @@ p.blocktext{
 img.aboutme{
 width: 10%;
 }
+.footer {
+   position: fixed;
+   left: 0;
+   bottom: 0;
+   width: 100%;
+   background-color: #106B13;
+   color: white;
+   text-align: center;
+}
  }
 
  @media only screen and (min-width: 1024px) {
@@ -124,5 +133,14 @@ p.blocktext{
 }
 img.aboutme{
 width: 10%;
+}
+.footer {
+   position: fixed;
+   left: 0;
+   bottom: 0;
+   width: 100%;
+   background-color: #106B13;
+   color: white;
+   text-align: center;
 }
 	}
